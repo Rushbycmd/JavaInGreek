@@ -1,4 +1,4 @@
-# Java In Polish
+# Java In Greek
 Java translator from greek to english, shitty af.<br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62033786/218096882-bcc106e7-1e92-48e8-97e9-992218b51c69.png" width=150>
@@ -24,7 +24,7 @@ Java translator from greek to english, shitty af.<br>
 }
 ```
 
-# All supported polish words:
+# All supported greek words:
 `καθώς` - `while`
 
 `αν` - `if`
