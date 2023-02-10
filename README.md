@@ -1,62 +1,68 @@
 # Java In Polish
+Java translator from greek to english, shitty af.<br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71133191/218101161-2ee1d3da-a309-415a-8d77-1d904edb08d4.png" width=150>
+  <img src="https://user-images.githubusercontent.com/62033786/218096882-bcc106e7-1e92-48e8-97e9-992218b51c69.png" width=150>
+  </br>
+   <br>
+   <a href="https://portrushuby.web.app/">Greek Version created by Rushuby Maod: https://portrushuby.web.app/</a>
+   </br>
 </p>
 
-# Example code in polish:
+# Example code in Greek!:
+
 
 ```java
-publiczna klasa Example {
-    publiczna statyczna próżnia main(String[] args) {
-        sieć alfabet = "abcdefghijklmnopqrstuvwxyz";
-        jeżeli (alfabet.równaSię("alfabet")) {
-            System.out.drukujln("prawda");
-        } w przeciwnym razie {
-            System.out.drukujln("falsz");
+δημόσια τάξη Example {
+    δημόσια στατική κενό main(String[] args) {
+        χόνδρος αλφάβητος = "abcdefghijklmnopqrstuvwxyz";
+        αν (αλφάβητος.ισοδυναμεί("alfabet")) {
+            System.out.αποτύπωσε("αληθής");
+        } αλλιώς {
+            System.out.αποτύπωσε("ψευδής");
         }
     }
 }
 ```
 
 # All supported polish words:
-`gdy` - `while`
+`καθώς` - `while`
 
-`jeżeli` - `if`
+`αν` - `if`
 
-`prawda` - `true`
+`αληθής` - `true`
 
-`fałsz` - `false`
+`ψευδής` - `false`
 
-`publiczna` - `public`
+`δημόσια` - `public`
 
-`prywatna` - `private`
+`ιδιωτικό` - `private`
 
-`chroniona` - `protected`
+`προστατευμένο` - `protected`
 
-`statyczna` - `static`
+`στατική` - `static`
 
-`próżnia` - `void`
+`κενό` - `void`
 
-`zniszcz` - `break`
+`διακοπή` - `break`
 
-`kontynuuj` - `continue`
+`συνέχισε` - `continue`
 
-`przełącz` - `switch`
+`άλλαξε` - `switch`
 
-`klasa` - `class`
+`τάξη` - `class`
 
-`sieć` - `String`
+`χόνδρος` - `String`
 
-`finalna` - `final`
+`τελικός` - `final`
 
-`zero` - `null`
+`μηδενικό` - `null`
 
-`próba` - `try`
+`δοκίμασε` - `try`
 
-`złap` - `catch`
+`άρπαξε` - `catch`
 
-`równaSię` - `equals`
+`ισοδυναμεί` - `equals`
 
-`drukuj` - `print`
+`αποτύπωσε` - `print`
 
-`w przeciwnym razie` - `else`
+`αλλιώς` - `else`
